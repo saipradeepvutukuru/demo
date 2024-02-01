@@ -1,11 +1,9 @@
 {
-    "login": [
-        {
-            "allowed": "false",
-            "firstName": "User",
-            "lastName": "Name"
-        }
-    ],
+    "login": {
+        "allowed": "false",
+        "firstName": "User",
+        "lastName": "Name"
+    },
     "dashboard": [
         {
             "id": 1,
